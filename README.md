@@ -1,1 +1,1 @@
-BSCoE 5-1D: Object Oriented Programming | Activities & Assignments
+BSCoE 5-1D: Object Oriented Programming | Assignment #1
